@@ -1,7 +1,8 @@
 # Programming and Data Analyst
 
 Hello, world! I'm Sanpie from Amphoreus
-![Chrysos_Heirs](C:\Users\asus\Downloads\Programming and Data Analyst\Programming-and-Data-Analyst\Images\20251122_171613.jpg)
+
+![Chrysos_Heirs](.\Images\20251122_171613.jpg)
 
 ## Welcome to My Project Practice Repository
 
@@ -17,6 +18,7 @@ Like, comment, and subscribe (lol)
 
 
 This is my wife btw <3
-![Wife1](C:\Users\asus\Downloads\Programming and Data Analyst\Programming-and-Data-Analyst\Images\20250419_160616 (1).jpg)
 
-![Wife2](C:\Users\asus\Downloads\Programming and Data Analyst\Programming-and-Data-Analyst\Images\20251119_123300.jpg)
+![Wife1](.\Images\20250419_160616.jpg)
+
+![Wife2](.\Images\20251119_123300.jpg)
