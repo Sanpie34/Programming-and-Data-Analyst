@@ -21,4 +21,4 @@ This is my wife btw <3
 
 ![Wife1](Images/20250419_160616.jpg)
 
-![Wife2](.\Images\20251119_123300.jpg)
+![Wife2](Images/20251119_123300.jpg)
