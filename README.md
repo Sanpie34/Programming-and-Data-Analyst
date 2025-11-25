@@ -2,7 +2,7 @@
 
 Hello, world! I'm Sanpie from Amphoreus
 
-![Chrysos_Heirs](.\Images\20251122_171613.jpg)
+![Chrysos_Heirs](Images/20251122_171613.jpg)
 
 ## Welcome to My Project Practice Repository
 
